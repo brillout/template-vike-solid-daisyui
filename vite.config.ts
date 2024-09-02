@@ -1,5 +1,5 @@
 import vikeSolid from 'vike-solid/vite'
-import { plugin as vike } from 'vike/plugin'
+import vike from 'vike/plugin'
 import type { UserConfig } from 'vite'
 import tailwindcss from 'tailwindcss'
 import autoprefixer from 'autoprefixer'
